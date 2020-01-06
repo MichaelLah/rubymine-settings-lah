@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="log" value="$logger.log $END$" description="log to my logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
