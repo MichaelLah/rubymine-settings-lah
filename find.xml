@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../spec/models/cert_spec.rb'" />
-    <option name="defaultScopeName" value="File '.../spec/models/cert_spec.rb'" />
-    <option name="SEARCH_SCOPE" value="File '.../spec/models/cert_spec.rb'" />
+    <option name="customScope" value="File '.../app/models/claim.rb'" />
+    <option name="defaultScopeName" value="File '.../app/models/claim.rb'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/models/claim.rb'" />
   </component>
 </application>
