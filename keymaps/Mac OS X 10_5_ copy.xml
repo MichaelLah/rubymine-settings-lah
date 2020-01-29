@@ -86,4 +86,5 @@
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="Vcs.UpdateProject" />
+  <action id="rspec.LetIntroduce" />
 </keymap>
