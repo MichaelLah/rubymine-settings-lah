@@ -18,12 +18,18 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CIDR.Debugger.CopyAddress" />
   <action id="CheckinProject" />
   <action id="Console.TableResult.ToggleFilters">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="DatabaseView.Ddl.AddTable">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -71,6 +77,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -88,7 +97,9 @@
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
   </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="Vcs.UpdateProject" />
+  <action id="WelcomeScreen.CopyProjectPath" />
   <action id="rspec.LetIntroduce" />
 </keymap>
