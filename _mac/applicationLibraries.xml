@@ -4406,6 +4406,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-e067553d1f62/.circleci" />
       </excluded>
     </library>
+    <library name="beam-edi (v2.0.2@2e2437, rbenv: 2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/bundler/gems/beam-edi-2e2437b23d40/.circleci" />
+      </excluded>
+    </library>
     <library name="benchmark (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
