@@ -1,13 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="asdfasdf" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
