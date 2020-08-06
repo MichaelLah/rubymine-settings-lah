@@ -5,6 +5,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="asdfasdf" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
