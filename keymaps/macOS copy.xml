@@ -8,9 +8,13 @@
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="CopyPaths" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
 </keymap>
