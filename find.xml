@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/workers/send_perks_opt_reminder_emails.rb'" />
-    <option name="defaultScopeName" value="File '.../app/workers/send_perks_opt_reminder_emails.rb'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/workers/send_perks_opt_reminder_emails.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>spec.js</mask>
     <mask>*.spec.jsx</mask>
     <mask>*.html.erb</mask>
