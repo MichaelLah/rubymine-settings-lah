@@ -13,6 +13,9 @@
       <webServer id="a6291bd7-ad1c-4ea1-93a3-bd205debae66" name="pi@192.168.1.175:22 password">
         <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
       </webServer>
+      <webServer id="345cdef1-76d2-4267-bc6d-f4d48951cb54" name="pi@192.168.1.175:22 password">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
     </option>
   </component>
 </application>
