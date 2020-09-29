@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaff7116-83e4-4f78-bfb3-9569beebaf15" name="pi@192.168.1.175:22 password">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
+      <webServer id="e7c1bfef-504b-4b05-bf3a-66bc7969adc2" name="pi@192.168.1.175:22 password (1)">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
+      <webServer id="9781dfa3-e8b1-45bd-b917-0293176611da" name="venvtest3" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
+      <webServer id="a6291bd7-ad1c-4ea1-93a3-bd205debae66" name="pi@192.168.1.175:22 password">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
+      <webServer id="345cdef1-76d2-4267-bc6d-f4d48951cb54" name="pi@192.168.1.175:22 password">
+        <fileTransfer accessType="SFTP" host="192.168.1.175" port="22" sshConfigId="daf481d5-3835-4101-bad3-308f2bfc6551" sshConfig="pi@192.168.1.175:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
