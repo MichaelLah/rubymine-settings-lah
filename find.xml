@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../db/dev_seeds/seeds/mobile/mobile_users.rb'" />
+    <option name="defaultScopeName" value="File '.../db/dev_seeds/seeds/mobile/mobile_users.rb'" />
+    <option name="SEARCH_SCOPE" value="File '.../db/dev_seeds/seeds/mobile/mobile_users.rb'" />
     <mask>spec.js</mask>
     <mask>*.spec.jsx</mask>
     <mask>*.html.erb</mask>
