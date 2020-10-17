@@ -6869,6 +6869,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0-dev/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.4.1, Remote: ruby-2.7.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/debase/0.2.4.1" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/debase/0.2.4.1" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.5.beta1, rbenv: 2.7.0-dev) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7008,6 +7029,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.11, Remote: ruby-2.7.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.11/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.4, rbenv: 2.4.6) [gem]" type="rubylib">
@@ -22162,6 +22194,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.2, Remote: ruby-2.7.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.2/ruby_stubs/1895190306/usr/lib/ruby/gems/2.7.0/gems/ruby-debug-ide-0.7.2/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta19, rbenv: 2.7.0) [gem]" type="rubylib">
