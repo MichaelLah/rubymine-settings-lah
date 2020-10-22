@@ -33,4 +33,7 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="GotoBookmark0" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
 </keymap>
