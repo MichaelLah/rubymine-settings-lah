@@ -4,9 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>spec.js</mask>
-    <mask>*.spec.jsx</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.*</mask>
     <mask>*.tsx</mask>
+    <mask>*.spec.jsx</mask>
   </component>
 </application>
