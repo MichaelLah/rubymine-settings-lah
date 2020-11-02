@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../vendor/rewards_api/app/models/rewards_api/customer.rb'" />
-    <option name="defaultScopeName" value="File '.../vendor/rewards_api/app/models/rewards_api/customer.rb'" />
-    <option name="SEARCH_SCOPE" value="File '.../vendor/rewards_api/app/models/rewards_api/customer.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.*</mask>
