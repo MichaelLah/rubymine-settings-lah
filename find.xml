@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/presenters/admin/brush_stats_presenter.rb'" />
+    <option name="defaultScopeName" value="File '.../app/presenters/admin/brush_stats_presenter.rb'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/presenters/admin/brush_stats_presenter.rb'" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.*</mask>
