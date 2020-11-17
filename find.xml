@@ -9,8 +9,8 @@
     <mask>*.spec.*</mask>
     <mask>*.spec.tsx</mask>
     <mask>*spec*</mask>
-    <mask>*.tsx</mask>
     <mask>*.*sx</mask>
     <mask>*.js</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
