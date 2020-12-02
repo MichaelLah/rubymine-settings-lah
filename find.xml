@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.jsx</mask>
@@ -15,5 +16,6 @@
     <mask>*.spec.*</mask>
     <mask>*package*</mask>
     <mask>*.test.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
