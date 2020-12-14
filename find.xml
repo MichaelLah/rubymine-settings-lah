@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../spec/models/user_spec.rb'" />
-    <option name="defaultScopeName" value="File '.../spec/models/user_spec.rb'" />
-    <option name="SEARCH_SCOPE" value="File '.../spec/models/user_spec.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.jsx</mask>
