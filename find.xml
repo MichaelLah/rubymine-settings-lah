@@ -17,5 +17,6 @@
     <mask>*.less</mask>
     <mask>*spec*</mask>
     <mask>*.json</mask>
+    <mask>package*</mask>
   </component>
 </application>
