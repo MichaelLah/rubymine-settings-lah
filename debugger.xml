@@ -11,7 +11,6 @@
       <debugger id="ruby">
         <configuration>
           <option name="timeout" value="60" />
-          <option name="verboseOutput" value="true" />
         </configuration>
       </debugger>
     </debuggers>
