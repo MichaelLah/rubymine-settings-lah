@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.jsx</mask>
@@ -10,7 +11,6 @@
     <mask>*.*sx</mask>
     <mask>*.js</mask>
     <mask>*spec.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.spec.*</mask>
     <mask>*package*</mask>
     <mask>*.test.js</mask>
@@ -18,5 +18,7 @@
     <mask>*spec*</mask>
     <mask>*.json</mask>
     <mask>package*</mask>
+    <mask>*.tsx</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
