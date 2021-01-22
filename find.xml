@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../lib/tasks/one_time_use/populate_badge_tiers_table.rake'" />
-    <option name="defaultScopeName" value="File '.../lib/tasks/one_time_use/populate_badge_tiers_table.rake'" />
-    <option name="SEARCH_SCOPE" value="File '.../lib/tasks/one_time_use/populate_badge_tiers_table.rake'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
     <mask>*.spec.jsx</mask>
