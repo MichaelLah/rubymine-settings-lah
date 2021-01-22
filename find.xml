@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../spec/services/badges/badge_tier_service_spec.rb'" />
+    <option name="defaultScopeName" value="File '.../spec/services/badges/badge_tier_service_spec.rb'" />
+    <option name="SEARCH_SCOPE" value="File '.../spec/services/badges/badge_tier_service_spec.rb'" />
     <option name="FILE_MASK" value="*spec*" />
     <mask>spec.js</mask>
     <mask>*.html.erb</mask>
