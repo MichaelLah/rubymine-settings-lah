@@ -34,7 +34,7 @@
   </action>
   <action id="GotoBookmark0" />
   <action id="Macro.Rubocop --fix-layout">
-    <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl c" />
