@@ -20,9 +20,9 @@
     <mask>*invoice*</mask>
     <mask>*package*</mask>
     <mask>*.ts</mask>
-    <mask>*spec*</mask>
     <mask>*.tsx</mask>
     <mask>*service_spec*</mask>
     <mask>*service*</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
