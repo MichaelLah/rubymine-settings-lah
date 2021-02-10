@@ -24,5 +24,6 @@
     <mask>*service_spec*</mask>
     <mask>*service*</mask>
     <mask>*spec*</mask>
+    <mask>*/models*</mask>
   </component>
 </application>
