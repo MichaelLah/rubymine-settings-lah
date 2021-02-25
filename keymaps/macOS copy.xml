@@ -5,16 +5,27 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="ChooseDebugConfiguration" />
   <action id="CopyPaths" />
   <action id="CopyReferencePopup">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Debug" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -28,6 +39,9 @@
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta c" />
