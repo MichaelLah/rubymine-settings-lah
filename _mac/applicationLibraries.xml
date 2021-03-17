@@ -16238,13 +16238,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
@@ -16478,14 +16476,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/oj/3.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/oj/3.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/oj-3.11.2/test" />
