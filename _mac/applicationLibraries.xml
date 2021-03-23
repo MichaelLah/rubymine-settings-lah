@@ -6090,6 +6090,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.20.0/spec" />
       </excluded>
     </library>
+    <library name="coveralls_reborn (v0.21.0, rbenv: 2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/coveralls_reborn-0.21.0/spec" />
+      </excluded>
+    </library>
     <library name="cowsay (v0.3.0, rbenv: 2.4.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
