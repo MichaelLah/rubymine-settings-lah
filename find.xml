@@ -3,5 +3,30 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>spec.js</mask>
+    <mask>*.html.erb</mask>
+    <mask>*.spec.jsx</mask>
+    <mask>*.spec.tsx</mask>
+    <mask>*.*sx</mask>
+    <mask>*.js</mask>
+    <mask>*spec.tsx</mask>
+    <mask>*.spec.*</mask>
+    <mask>*.test.js</mask>
+    <mask>*.less</mask>
+    <mask>*.json</mask>
+    <mask>package*</mask>
+    <mask>*.jsx</mask>
+    <mask>package.json</mask>
+    <mask>*invoice*</mask>
+    <mask>*package*</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
+    <mask>*service_spec*</mask>
+    <mask>*/models*</mask>
+    <mask>*service*</mask>
+    <mask>*.ts*</mask>
+    <mask>*sql*</mask>
+    <mask>*serializer_spec*</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
